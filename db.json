@@ -1,0 +1,69 @@
+{
+  "vscode": [
+    {
+      "id": 1,
+      "hotkey": "Ctrl + D",
+      "desctiption": "Вибрати однаковий текст"
+    },
+    {
+      "id": 2,
+      "hotkey": "Ctrl + J",
+      "desctiption": "Показує панель виводу/консоль"
+    },
+    {
+      "id": 3
+    },
+    {
+      "id": 4
+    },
+    {
+      "id": 5
+    },
+    {
+      "id": 6
+    },
+    {
+      "id": 7
+    },
+    {
+      "id": 8
+    }
+  ],
+  "windows10": [
+    {
+      "id": 1,
+      "hotkey": "Windows + .",
+      "desctiption": "Покаже смайлики"
+    },
+    {
+      "id": 2,
+      "hotkey": "Windows + E",
+      "desctiption": "Провідник"
+    },
+    {
+      "id": 3,
+      "hotkey": "Windows + Q",
+      "desctiption": "Пошук віндовс"
+    },
+    {
+      "id": 4,
+      "hotkey": "Windows + A",
+      "desctiption": "Бокова панель"
+    },
+    {
+      "id": 5,
+      "hotkey": "Windows + G",
+      "desctiption": "Панель стрімінгу"
+    },
+    {
+      "id": 6,
+      "hotkey": "Windows + W",
+      "desctiption": "Міні програми віндовс"
+    },
+    {
+      "hotkey": "Windows + R",
+      "desctiption": "Запускає утиліту Run",
+      "id": 7
+    }
+  ]
+}
