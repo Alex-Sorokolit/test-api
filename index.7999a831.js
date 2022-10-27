@@ -1,0 +1,2 @@
+refs={toWatchBtn:document.querySelector(".to-watch-btn"),toQueueBtn:document.querySelector(".to-queue-btn"),galleryList:document.querySelector(".gallery")},console.log(refs.toWatchBtn),console.log(refs.toQueueBtn),console.log(refs.galleryList);console.log("https://api.themoviedb.org/3/movie/550?api_key=77f4196daae31eca36e03f9aa498784a"),fetch("https://api.themoviedb.org/3/movie/550?api_key=77f4196daae31eca36e03f9aa498784a").then((e=>e.json())).then(console.log);
+//# sourceMappingURL=index.7999a831.js.map

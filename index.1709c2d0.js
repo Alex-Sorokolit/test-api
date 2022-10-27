@@ -1,0 +1,2 @@
+!function(){refs={toWatchBtn:document.querySelector(".to-watch-btn"),toQueueBtn:document.querySelector(".to-queue-btn"),galleryList:document.querySelector(".gallery")},console.log(refs.toWatchBtn),console.log(refs.toQueueBtn),console.log(refs.galleryList);var e="".concat("https://api.themoviedb.org/3","/movie/550?api_key=").concat("77f4196daae31eca36e03f9aa498784a");console.log(e),fetch(e).then((function(e){return e.json()})).then(console.log)}();
+//# sourceMappingURL=index.1709c2d0.js.map
